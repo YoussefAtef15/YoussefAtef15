@@ -150,11 +150,8 @@
 <div>
   <p align="center">
 	<!-- Add your own pinned repos below -->
-	<a href="https://github.com/YoussefAtef15/YourRepo1">
+	<a href="[https://github.com/YoussefAtef15/YourRepo2](https://github.com/YoussefAtef15/-Vaccination-Scheduling-System)">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAtef15&repo=YourRepo1&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/YoussefAtef15/YourRepo2">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAtef15&repo=YourRepo2&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<!-- Add more as needed -->
   </p>
