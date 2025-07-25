@@ -122,66 +122,45 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAtef15&theme=tokyonight_duo" alt="YoussefAtef15" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="YoussefAtef15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YoussefAtef15&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefAtef15&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="YoussefAtef15" height="230px"/>
-<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAtef15&theme=tokyonight_duo" alt="YoussefAtef15" />
+</p>
+</details>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="YoussefAtef15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YoussefAtef15&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefAtef15&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="YoussefAtef15" height="230px"/>
+</p>
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAtef15&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" alt="YoussefAtef15's GitHub Activity Graph"/>
   </a>
 </p>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7oSkaaa&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
-	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<!-- Add your own pinned repos below -->
-<a href="https://github.com/YoussefAtef15/-Vaccination-Scheduling-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAtef15&repo=-Vaccination-Scheduling-System&theme=tokyonight" alt="GitHub Stats" />
-</a>
-
-	<!-- Add more as needed -->
-  </p>
-</div>
 </details>
 
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<details><summary><h3>:trophy: GitHub Trophies</h3></summary>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefAtef15&theme=tokyonight&row=1&no-bg=true&no-frame=true"/>
 </p>
+</details>
+
+<details><summary><h3>:open_file_folder: My Repositories</h3></summary>
+<p align="center">
+  <a href="https://github.com/YoussefAtef15/-Vaccination-Scheduling-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAtef15&repo=-Vaccination-Scheduling-System&theme=tokyonight" alt="Vaccination-Scheduling-System" />
+  </a>
+</p>
+</details>
+
+## 🐍 A Snake Eating my Contributions Graph
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+</p>
+
 
