@@ -28,88 +28,71 @@
 
 <br>
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/youssef--atef15" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="youssef--atef15" height="30" width="40" />
-  </a>
-  
-  <a href="https://fb.com/youssefatef.raslan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-    alt="youssef atef raslan" height="30" width="40" />
-  </a>
-
-  <a href="https://instagram.com/youssef__atef" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="youssef__atef" height="30" width="40" />
-  </a>
-
-<a href="mailto:youssefateftayh@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-  alt="youssefateftayh@gmail.com" height="30" width="40" />
-</a>
-
-</p>
-
-
-## 🛠️ Skills
-
-### Programming
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <a href="https://codeforces.com/profile/YoussefAtef15"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+  <a href="https://leetcode.com/u/YoussefAtef15/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/youssefatefrasl1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/hackerrank.png" alt="HackerRank"/></a>
+</p>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+  <a href="mailto:youssefateftayh@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/YoussefAtef15"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/youssef--atef15"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://fb.com/youssefatef.raslan"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/youssef__atef"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+## 🛠️ My Skills
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+<p align="center"> 
+  <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
 </p>
 
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+<p align="center"> 
+  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/angular-DD0031?style=plastic&logo=angular&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & Technologies
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=plastic&logo=stackoverflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white">
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white">
+  <img src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white">
+  <img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-%2300C7B7.svg?style=plastic&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=plastic&logo=sql&logoColor=white">
-
+  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white"/>
 </p>
 
-### Tools
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=plastic&logo=stackoverflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white">
 </p>
 
-## 📊 GitHub Stats
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAtef15&theme=tokyonight&show_icons=true&count_private=true" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAtef15&layout=compact&theme=tokyonight" height="200px">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white">
 </p>
 
 
