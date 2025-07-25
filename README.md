@@ -40,10 +40,11 @@
     alt="youssef__atef" height="30" width="40" />
   </a>
 
-  <a href="mailto:youssefateftayh@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-    alt="youssefateftayh@gmail.com" height="30" width="40" />
-  </a>
+<a href="mailto:youssefateftayh@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+  alt="youssefateftayh@gmail.com" height="30" width="40" />
+</a>
+
 </p>
 
 
