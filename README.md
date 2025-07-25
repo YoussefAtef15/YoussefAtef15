@@ -157,9 +157,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoussefAtef15&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="YoussefAtef15" /></a> </p>
-
-[![@YoussefAtef15's Holopin board](https://holopin.io/api/user/board?user=YoussefAtef15)](https://holopin.io/@YoussefAtef15)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7oSkaaa&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
 	
 </details>
 	
