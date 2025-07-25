@@ -24,7 +24,7 @@
 - :computer: I enjoy solving problems with code and building complete systems from frontend to backend
 - :student: Currently learning more about `Web Development`, `Databases`, and `ML Frameworks`
 - :mag: Always exploring new technologies and tools to expand my skills
-- :briefcase: Open to internships and part-time opportunities in `Data` or `Full Stack`
+- :briefcase: Open to internships and part-time opportunities in `Data Science` or `Full Stack`
 
 <br>
 
@@ -52,7 +52,9 @@
   <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+   <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
 </p>
 
@@ -145,9 +147,11 @@
 
 ----
 	
-[![YoussefAtef15's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YoussefAtef15&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</details>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAtef15&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" alt="YoussefAtef15's GitHub Activity Graph"/>
+  </a>
+</p>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
