@@ -33,7 +33,7 @@
 <p align="center">
   <a href="https://codeforces.com/profile/YoussefAtef15"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
   <a href="https://leetcode.com/u/YoussefAtef15/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/profile/youssefatefrasl1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/hackerrank.png" alt="HackerRank"/></a>
+  <a href="https://www.hackerrank.com/profile/youssefatefrasl1"><img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -95,4 +95,76 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white">
 </p>
 
+--
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAtef15&theme=tokyonight_duo" alt="YoussefAtef15" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="YoussefAtef15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YoussefAtef15&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefAtef15&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="YoussefAtef15" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+[![YoussefAtef15's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YoussefAtef15&theme=github)](https://github.com/YoussefAtef15/github-readme-activity-graph)
+
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoussefAtef15&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="YoussefAtef15" /></a> </p>
+
+[![@YoussefAtef15's Holopin board](https://holopin.io/api/user/board?user=YoussefAtef15)](https://holopin.io/@YoussefAtef15)
+	
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<!-- Add your own pinned repos below -->
+	<a href="https://github.com/YoussefAtef15/YourRepo1">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAtef15&repo=YourRepo1&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/YoussefAtef15/YourRepo2">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAtef15&repo=YourRepo2&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<!-- Add more as needed -->
+  </p>
+</div>
+</details>
+
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/YoussefAtef15/YoussefAtef15/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
