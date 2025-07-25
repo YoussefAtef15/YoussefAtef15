@@ -24,13 +24,28 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:youssefateftayh@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/YoussefAtef15"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/youssef--atef15"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/youssef__atef/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/youssefatef.raslan/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/youssef--atef15" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="youssef--atef15" height="30" width="40" />
+  </a>
+  
+  <a href="https://fb.com/youssefatef.raslan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+    alt="youssef atef raslan" height="30" width="40" />
+  </a>
+
+  <a href="https://instagram.com/youssef__atef" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    alt="youssef__atef" height="30" width="40" />
+  </a>
+
+  <a href="mailto:youssefateftayh@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+    alt="youssefateftayh@gmail.com" height="30" width="40" />
+  </a>
 </p>
+
 
 ## 🛠️ Skills
 
@@ -70,7 +85,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=plastic&logo=sql&logoColor=white">
+
 </p>
 
 ### Tools
