@@ -10,17 +10,23 @@
   <img src="https://komarev.com/ghpvc/?username=YoussefAtef15&label=Profile%20views&color=blue&style=plastic" alt="YoussefAtef15" height=25px />
 </p>
 
-## 🧑‍💻 About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<picture><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
+<picture> 
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
 
-- 🎓 Data Science student at Helwan National University  
-- 👨‍💻 Proficient in Python, C, C++, PostgreSQL  
-- 🔍 Working on building real database systems  
-- 🤖 Learning AI, Machine Learning, and Web Development  
-- 🧠 Solving algorithmic problems on Codeforces  
-- 💡 Focused on building strong backend and logic thinking skills  
-- 🌍 Based in Cairo, Egypt
+<br><br>
+
+- :school: I am a `Junior` at [Faculty of Computer Science and Information Technology](http://www.hnu.edu.eg/) at [Helwan National University](http://www.hnu.edu.eg/)
+- :technologist: I specialize in `Data Science`
+- :rocket: Interested in `Machine Learning`, `AI`, and `Full Stack Development`
+- :computer: I enjoy solving problems with code and building complete systems from frontend to backend
+- :student: Currently learning more about `Web Development`, `Databases`, and `ML Frameworks`
+- :mag: Always exploring new technologies and tools to expand my skills
+- :briefcase: Open to internships and part-time opportunities in `Data` or `Full Stack`
+
+<br>
 
 ## 🌐 Connect with Me
 
