@@ -65,6 +65,10 @@
   <img src="https://img.shields.io/badge/angular-DD0031?style=plastic&logo=angular&logoColor=white"/>
 </p>
 
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width = 50px> </picture> Backend Development
+<p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" /> 
+</p>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
@@ -86,7 +90,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Code::Blocks-000000.svg?style=plastic&logo=codeblocks&logoColor=white">
+  <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=plastic&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/Celeryon-000000.svg?style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=plastic&logo=adobe-photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00.svg?style=plastic&logo=adobe-illustrator&logoColor=white">
+
 </p>
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 <p align="center">
@@ -95,7 +108,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white">
 </p>
 
---
+
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
@@ -105,7 +118,7 @@
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
+	
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAtef15&theme=tokyonight_duo" alt="YoussefAtef15" /></p>
 
