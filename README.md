@@ -40,10 +40,37 @@
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sqlite&logoColor=white">
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=plastic&logo=stackoverflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white">
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
 </p>
 
 ### Tools
@@ -62,13 +89,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAtef15&layout=compact&theme=tokyonight" height="200px">
 </p>
 
-## 📌 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/YoussefAtef15/grade-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAtef15&repo=grade-management-system&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/YoussefAtef15/falling-egg-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAtef15&repo=falling-egg-game&theme=tokyonight" />
-  </a>
-</p>
