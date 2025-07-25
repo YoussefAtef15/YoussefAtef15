@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/angular-DD0031?style=plastic&logo=angular&logoColor=white"/>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width="50px"> </picture> Backend Development  
+### <picture> <img src="https://assets.lottiefiles.com/animations/yourBackendGif.gif" width="50px"> </picture> Backend Development  
 <p align="center">  
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white">  
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white">  
@@ -79,7 +79,6 @@
   <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white">
   <img src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white">
   <img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white">
@@ -100,8 +99,9 @@
   <img src="https://img.shields.io/badge/Code::Blocks-000000.svg?style=plastic&logo=codeblocks&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=plastic&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/Celeryon-000000.svg?style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=plastic&logo=adobe-photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00.svg?style=plastic&logo=adobe-illustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-A-001e36?colorA=001e36&colorB=31a8ff&logo=adobephotoshop&logoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-A-330000?colorA=330000&colorB=ff9a00&logo=adobeillustrator&logoColor=white&style=plastic"/>
+
 
 </p>
 
